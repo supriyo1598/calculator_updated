@@ -29,10 +29,6 @@ body
   margin-top: 42px;
   margin-bottom: 20px;
 }
-.theme-switch-wrapper em {
-  margin-left: 10px;
-  font-size: 1rem;
-}
 
 .theme-switch {
   display: inline-block;
@@ -157,12 +153,4 @@ input:checked + .slider:before {
 .equal
 {
  background: rgba(255,255,255,0.05);
-}
-p
-{
-z-index: 10;
-margin: 10px;
-font-size: 15px;
-font-weight: 500;
-color: rgba(255, 255, 255, 0.8);
 }
